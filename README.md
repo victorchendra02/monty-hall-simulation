@@ -1,1 +1,1 @@
-# monty-hall-simulator
+# Monty hall simulator with Python
